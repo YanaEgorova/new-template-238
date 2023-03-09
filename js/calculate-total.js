@@ -65,6 +65,7 @@ function cartAdd(e) {
             showSuccessMessage(successMessage, successMessageSpan, name);
         }
     }
+    
 }
 
 function increment(e) {
