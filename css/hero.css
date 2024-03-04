@@ -145,7 +145,8 @@
     }
     .policy__list {
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
+
     }
     .policy__item:not(:last-child) {
         margin-bottom: 0;
